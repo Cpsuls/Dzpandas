@@ -22,7 +22,7 @@ import pandas as pd
 # for el in els:
 #         print(data.loc[data['ticker'] == el, 'volume'].sum())
 # .loc[df['col1'] == value]
-# 5
+# 5x
 # data = pd.read_csv("sp500hst.txt", sep=",",header=0)
 # data1= pd.read_csv('sp_data2.csv', on_bad_lines='skip')
 # unigue1=data['ticker']
